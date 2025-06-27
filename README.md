@@ -1,88 +1,46 @@
-## 한현민 GitHub README.md (자기소개)
+## 한현민 README.md
 
-안녕하세요!  
-저는 데이터 분석, AI, 그리고 실전 서비스 개발에 집중하는 한현민입니다.  
-수원에 거주하며, 상명대학교 소프트웨어학과에서 공부하고 있습니다.
+### 👋 Hi, I'm Hyunmin Han
 
-### 🔬 주요 프로젝트 경험
+I'm interested in  
+- Data Analysis & AI Service Development  
+- Computer Vision  
+- Personalized Recommendation Systems  
+- Multimodal AI  
 
-#### 1. **predict_temperature**
-- **프로젝트 소개:**  
-  ARIMA, Ridge Regression 등 시계열 및 머신러닝 모델을 활용해 도시별 온도를 예측하는 데이터 사이언스 프로젝트입니다.
-- **주요 내용:**  
-  - 기상 데이터 전처리 및 결측치 처리  
-  - EDA(탐색적 데이터 분석) 및 시각화  
-  - ARIMA, Ridge Regression 등 다양한 예측 모델 비교  
-  - 실제 환경(도시별, 기간별)에서 온도 예측 정확도 평가  
-- **기술 스택:**  
-  Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook  
-- **활용 분야:**  
-  농업, 재난 대비, 에너지 관리 등 다양한 산업에서의 기상 예측[1][2][3][4][5][6].
+### 📫 Contact  
+- Email: 4mins12@gmail.com  
+- GitHub: [your-username]  
 
-#### 2. **Hard-Hat-Worker-Data-Analysis**
-- **프로젝트 소개:**  
-  산업현장 근로자의 안전모 착용 여부를 판별하는 컴퓨터 비전 데이터 분석 프로젝트입니다.
-- **주요 내용:**  
-  - Hard Hat Workers 데이터셋 활용  
-  - 안전모, 사람, 머리 등 다양한 클래스 분류  
-  - 데이터 전처리 및 어노테이션, 증강  
-  - 안전관리 및 산업재해 예방을 위한 활용 방안 연구  
-- **기술 스택:**  
-  Python, OpenCV, Roboflow, Jupyter Notebook  
-- **활용 분야:**  
-  산업안전, 현장 모니터링, 자동화 시스템[7].
+### 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frameworks:** React, React Native, Node.js  
+- **Data/AI:** Pandas, Scikit-learn, OpenAI API, NLP  
+- **Tools:** GitHub, Jupyter Notebook, Notion, Figma, Markdown  
 
-#### 3. **credit-card-data-analysis**
-- **프로젝트 소개:**  
-  신용카드 거래 데이터를 분석해 소비 패턴, 이상 거래 탐지, 마케팅 인사이트를 도출하는 프로젝트입니다.
-- **주요 내용:**  
-  - 대용량 신용카드 거래 데이터 전처리 및 정제  
-  - 소비자 유형 분류, 지출 패턴 분석  
-  - 데이터 시각화 및 대시보드 제작  
-  - 이상 거래 탐지 및 마케팅 전략 제안  
-- **기술 스택:**  
-  Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI  
-- **활용 분야:**  
-  금융 데이터 분석, 리스크 관리, 맞춤형 마케팅[8][9][10][11].
+### 📂 Projects  
+- **predict_temperature**  
+  ARIMA, Ridge Regression 등 다양한 모델을 활용한 도시별 온도 예측 프로젝트  
+- **Hard-Hat-Worker-Data-Analysis**  
+  산업현장 근로자의 안전모 착용 여부 판별 데이터 분석 및 컴퓨터 비전 프로젝트  
+- **credit-card-data-analysis**  
+  신용카드 거래 데이터 분석, 소비 패턴 및 이상 거래 탐지  
+- **food-recommend-service**  
+  요기요 리뷰 크롤링 및 AI 기반 음식/메뉴 추천 서비스 개발
 
-#### 4. **food-recommend-service**
-- **프로젝트 소개:**  
-  요기요 리뷰 데이터를 크롤링하고, AI(자연어처리, GPT 등) 기반으로 상황별 음식/메뉴를 추천하는 서비스입니다.
-- **주요 내용:**  
-  - 요기요 오픈 API를 통한 리뷰 데이터 수집 및 분석  
-  - 사용자 입력(상황, 취향)에 따른 맞춤형 메뉴 추천  
-  - 자연어 처리 및 감성 분석 적용  
-  - 실제 사용자 평가 반영한 인기 메뉴 우선 추천  
-- **기술 스택:**  
-  Python, OpenAI API, Streamlit, Pandas, NLP  
-- **활용 분야:**  
-  외식, 푸드테크, 개인화 추천 서비스, AI 기반 비즈니스[12][13].
+### 📝 Papers & Reports  
+- [2024] 음식 추천 및 사용자 맞춤형 서비스 기획 보고서  
+- [2023] 데이터 기반 사용자 행동 분석 및 서비스 개선 제안서  
 
-### 💡 나의 강점
+### 🏆 Awards  
+- 2024.06 상명대학교 창업동아리 우수 프로젝트 선정  
+- 2023.12 외식 AI 추천 서비스 경진대회 입상  
+- 2023.07 데이터 분석 해커톤 우수상  
 
-- **실전 데이터 분석/AI 서비스 개발 경험**  
-  실제 데이터를 활용한 예측, 분류, 추천 등 다양한 프로젝트 경험
-- **문제 정의 및 비즈니스 인사이트 도출**  
-  산업/금융/외식 등 다양한 도메인에서 데이터 기반 의사결정 지원[14]
-- **기획-개발-운영 전주기 경험**  
-  데이터 수집, 전처리, 모델링, 시각화, 서비스화까지 전 과정 주도
-- **팀워크와 커뮤니케이션**  
-  다양한 협업 경험과 문서화, 발표 역량
+### 💡 Activities  
+- 2025.06 ~ 상명대학교 창업 동아리 활동  
+- 2024.07 ~ AI 기반 음식 추천 서비스 개발 및 멘토링  
+- 2023.09 ~ 다양한 데이터 분석 및 AI 프로젝트 리딩
 
-### 🛠️ 사용 기술
-
-- **언어/프레임워크:** Python, JavaScript, TypeScript, React, Node.js
-- **데이터/AI:** Pandas, Scikit-learn, OpenAI API, NLP, Power BI
-- **협업/문서화:** GitHub, Notion, Figma, Markdown
-
-### 🎯 목표
-
-- 데이터와 AI를 활용해 실질적인 비즈니스 가치를 창출하는 서비스 개발
-- 사용자 중심의 문제 해결과 혁신적인 경험 제공
-
-### 📬 연락처
-
-- **이메일:** 4mins12@gmail.com  
-- **GitHub:** github.com/your-username
-
-> “데이터와 AI로 세상을 더 편리하게 만드는 개발자, 한현민입니다.”
+> 데이터와 AI로 실질적인 비즈니스 가치를 창출하는 개발자/기획자를 지향합니다.  
+> 새로운 도전과 협업을 기다립니다!
