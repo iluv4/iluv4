@@ -8,30 +8,9 @@ I'm interested in
 
 ## 📫 Contact
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-4mins12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=://linkedin.com/in/your-linkedin](https://img.shields.io/badge/Naver-Blog-03C75A?style=flat-square&logo=Naver&logo 🛠️ Tech Stack
 
-  
-
-
-  
-
-
-  
-
-
-## 🛠️ Tech Stack
-
-
-
-
-
-
-
-
-
-
-
-
-## 📂 Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColorimg.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=whiteields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logo](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=whiteields.io/badge/GitHub-181717?style=flat-square&logo=Git 📂 Projects
 
 - **predict_temperature**  
   ARIMA, Ridge Regression 등 다양한 모델을 활용한 도시별 온도 예측 프로젝트
@@ -59,7 +38,3 @@ I'm interested in
 
 > 데이터와 AI로 실질적인 비즈니스 가치를 창출하는 개발자/기획자를 지향합니다.  
 > 새로운 도전과 협업을 기다립니다!
-
-_본 README는 전문 보고서를 마크다운으로 작성하는 것을 선호하고, 요약·소개·이미지 크기 조정 등 문서화에도 신경을 쓰는 저의 성향을 반영하여 작성되었습니다._[1]
-
-[1] work.document_preparation
