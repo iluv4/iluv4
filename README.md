@@ -2,9 +2,7 @@
 
 I'm interested in  
 - Data Analysis & AI Service Development  
-- Computer Vision  
 - Personalized Recommendation Systems  
-- Multimodal AI
 
 ## 📫 Contact
 
@@ -13,11 +11,8 @@ I'm interested in
 ## 🛠️ Tech Stack
 
 - Python
-- JavaScript, TypeScript
-- React, Node.js
-- Jupyter Notebook
-- Pandas, Scikit-learn
-- Markdown, GitHub
+- JavaScript 
+- React
 
 ## 📂 Projects
 
@@ -35,15 +30,18 @@ I'm interested in
 
 ## 🏆 Awards
 
-- 2024.06 상명대학교 창업동아리 우수 프로젝트 선정  
-- 2023.12 외식 AI 추천 서비스 경진대회 입상  
-- 2023.07 데이터 분석 해커톤 우수상
+- 2025.06 바이오헬스 혁신융합대학 스타트업 경진대회 대상
+  의약품 유통기한 관리 솔루션, 의약품 섭취 게임 
+- 2024.07 데이터 분석 해커톤 우수상
+  네이버 영화 리뷰 분석
+- 2024.01 상명대학교 창업경진대회 우수상
+  대학생 필기 공유 서비스
 
 ## 💡 Activities
 
-- 2025.06 ~ 상명대학교 창업 동아리 활동  
-- 2024.07 ~ AI 기반 음식 추천 서비스 개발 및 멘토링  
-- 2023.09 ~ 다양한 데이터 분석 및 AI 프로젝트 리딩
+- 2025.07 ~ AI 기반 음식 추천 서비스 개발 및 기획
+- 2024.03 ~ 상명대학교 창업 동아리 활동  
+
 
 > 데이터와 AI로 실질적인 비즈니스 가치를 창출하는 개발자/기획자를 지향합니다.  
 > 새로운 도전과 협업을 기다립니다!
